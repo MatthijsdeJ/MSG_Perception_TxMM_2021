@@ -1,5 +1,5 @@
-# TxMM 2021 project: 
 # The Aftertaste of Bad Science: Stances towards MSG of Reddit Users
+## TxMM 2021 project: 
 
 This repository contains the software for the Text and Multimedia Mining (TxMM\LET-REMA-LCEX06) course I completed in the first semester of academic year 2020/2021. The full report can be found in the top-level pdf. A short description of the research is:
 
